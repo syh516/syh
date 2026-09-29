@@ -1,0 +1,13 @@
+Claude Code Skills 安装说明
+
+1. 把 game-hacking 文件夹复制到:
+   %USERPROFILE%\.claude\skills\
+
+2. 把 reverse-engineering 文件夹复制到:
+   %USERPROFILE%\.claude\skills\
+
+3. 重启 Claude Code 即可使用
+
+触发词:
+- game-hacking: 游戏外挂、内存修改、CE教程、游戏Hook、Frida、Xposed、il2cpp
+- reverse-engineering: 逆向、反编译、Hook、脱壳、抓包、协议分析、Frida、Xposed
